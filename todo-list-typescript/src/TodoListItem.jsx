@@ -3,7 +3,7 @@ import React from 'react'
 import { Interface } from 'readline'
 
 
-export default function TodoListItem(props) {
+export default function TodoListItem() {
   return (
     <div>
         <h1>Todo List</h1>
