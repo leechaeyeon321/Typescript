@@ -12,6 +12,9 @@ export default function TodoListItem() {
             <li>Item 3</li>
             <li>Item 4</li>
         </ul>
+        <form>
+          <input type="text"/>
+        </form>
         <input type="text" placeholder='Add todo item'/>
         <button>Add</button>
     </div>
